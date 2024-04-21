@@ -1,6 +1,6 @@
 
 
-## Exploring Shadcn Ui and it components
+## Exploring Shadcn Ui and it's components
 
 First, run the development server:
 
